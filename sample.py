@@ -1,1 +1,1 @@
-print("Hello, Fedora!")
+print("Hello, Linux Mint!")
